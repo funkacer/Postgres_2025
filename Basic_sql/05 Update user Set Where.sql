@@ -1,0 +1,1 @@
+UPDATE "user" SET age = 30, email = 'troy@test.fake' WHERE id = 1;
