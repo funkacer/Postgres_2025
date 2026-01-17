@@ -1,0 +1,1 @@
+update public.jc_users SET name = (E'some.o\'ne@somewhere.com')::text where id = 1;
